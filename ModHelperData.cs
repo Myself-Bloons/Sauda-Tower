@@ -2,7 +2,7 @@ namespace SaudaMod;
 
 public static class ModHelperData
 {
-    public const string Name = "Sauda Mod";
+    public const string Name = "Sauda Tower";
     public const string Description = "Converts Sauda hero into a regular tower with full upgrade paths";
     public const string Version = "1.0.0";
     public const string RepoOwner = "Myself-Bloons";

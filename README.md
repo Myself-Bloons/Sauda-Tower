@@ -5,8 +5,8 @@
 </a>
 
 </h1>
-<h3 align="center">Converts Sauda hero into a regular tower with full upgrade paths. Remake of the Sauda Tower mod by emeryllium working with Ultimate CrossPathing for v51.2+</h3>
-<h1 align="center">Sauda as a Tower with moder Crosspathing possibilities.</h1>
+<h3 align="center">Converts Sauda hero into a regular tower with full upgrade paths. Remake of the Sauda Tower mod by emeryllium working with Ultimate CrossPathing for v51.2+ Made for Dabloon</h3>
+<h1 align="center">Sauda as a Tower with modern Crosspathing possibilities.</h1>
 
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
